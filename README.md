@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm deepthi</h1>
+<h1 align="center">Hi 👋, I'm sreyasri
+</h1>
 <h3 align="center">I am a aspiring Data Scientist</h3>
 <br>
 <img align="right" alt="coding" width="400" src="">
